@@ -76,9 +76,9 @@ It is designed to help monitor safety, reduce energy loss, and provide alerts th
 
 ## Featured Repositories
 
-- [Smart Window Monitor](https://github.com/Shadow12-sketch)
-- Add your best frontend project here
-- Add your best backend project here
+- [pubgm modified ](https://github.com/Biya-dev/pubg-modified-ios-)
+- 
+- [chat app for beginner](https://github.com/Biya-dev/chat-app)
 - Add one more polished project here
 
 ---
@@ -98,7 +98,7 @@ It is designed to help monitor safety, reduce energy loss, and provide alerts th
 
 ## Contact
 
-- GitHub: [Shadow12-sketch](https://github.com/Shadow12-sketch)
+- GitHub: [Shadow12-sketch](https://github.com/Biya-dev)
 
 ---
 

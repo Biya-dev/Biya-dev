@@ -77,18 +77,12 @@ It is designed to help monitor safety, reduce energy loss, and provide alerts th
 ## Featured Repositories
 
 - [pubgm modified ](https://github.com/Biya-dev/pubg-modified-ios-)
-- 
 - [chat app for beginner](https://github.com/Biya-dev/chat-app)
-- Add one more polished project here
+- ...soon!
 
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow12-sketch&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow12-sketch&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shadow12-sketch&theme=tokyonight" />
@@ -98,7 +92,7 @@ It is designed to help monitor safety, reduce energy loss, and provide alerts th
 
 ## Contact
 
-- GitHub: [Shadow12-sketch](https://github.com/Biya-dev)
+- GitHub: [Biya-dev](https://github.com/Biya-dev)
 
 ---
 

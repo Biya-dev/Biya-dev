@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Biya</h1>
+<h1 align="center">Hi, I'm Bijaya</h1>
 <h3 align="center">Student developer building web apps, IoT systems, and practical software projects</h3>
 
 <p align="center">

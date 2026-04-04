@@ -51,7 +51,9 @@
 
 A real-time monitoring platform that tracks window status using sensors and microcontrollers.  
 It is designed to help monitor safety, reduce energy loss, and provide alerts through a web dashboard.
+## Live Demo
 
+[View Smart Window Monitor](https://windowmanager.ntig.tech/window_monitor/home.php)
 **Features**
 - Real-time open and closed status
 - Dashboard for monitoring

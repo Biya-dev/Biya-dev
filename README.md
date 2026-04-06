@@ -85,7 +85,7 @@ It is designed to help monitor safety, reduce energy loss, and provide alerts th
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shadow12-sketch&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Biya-dev&theme=tokyonight" />
 </p>
 
 ---

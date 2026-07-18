@@ -12,39 +12,16 @@
 ## 🚀 My Tech Stack
 
 ### 💻 Frontend Development
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Tailwind" />
-</p>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![Tailwind](https://shields.io)
 
 ### ⚙️ Backend Development
-<p align="left">
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Express" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
-</p>
+![Node.js](https://shields.io) ![Express](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io)
 
 ### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Firebase" />
-</p>
+![MongoDB](https://shields.io) ![PostgreSQL](https://shields.io) ![Firebase](https://shields.io)
 
 ### 🛠️ DevOps & Tools
-<p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
-
+![Git](https://shields.io) ![GitHub](https://shields.io) ![Docker](https://shields.io) ![VS Code](https://shields.io)
 
 ---
 

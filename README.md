@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Biya 👋</h1>
 
 <p align="center">
-Student Developer from Sweden <br>
+ <br>
 Building, Learning, and Exploring New Technologies
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,react,tailwind,php,python,c++ />
+  <img src="https://skillicons.dev/icons?i=java,react,tailwind,php,python,cpp,git,github,vscode" />
 </p>

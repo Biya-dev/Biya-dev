@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Bijaya</h1>
-<h3 align="center">Student developer building web apps, IoT systems, and practical software projects</h3>
-
+<h1 align="center">Hi, I'm Biya</h1>
 <p align="center">
   <a href="https://github.com/Biya-dev">
     <img src="https://komarev.com/ghpvc/?username=Shadow12-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,38 +8,43 @@
 ---
 
 ## About Me
-
-- Student developer from Swe
-- Interested in web development, IoT, dashboards, and embedded systems
-- I build practical projects with real use cases
-- Current main focus: Smart Window Monitoring System
-
 ---
+## 🚀 My Tech Stack
 
-## What I Work With
-
-<p>
- <p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-
-  <!-- NEW -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+### 💻 Frontend Development
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="Tailwind" />
 </p>
-  
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="Express" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Java" />
 </p>
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Firebase" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="VS Code" />
+</p>
+
 
 ---
 

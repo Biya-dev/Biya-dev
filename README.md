@@ -6,5 +6,5 @@ Building, Learning, and Exploring New Technologies
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,react,tailwind,php,python,c++ />
 </p>

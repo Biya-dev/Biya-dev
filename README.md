@@ -5,6 +5,7 @@
   </a>
 </p>
 
----
+<a href="https://react.dev" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev" alt="React Logo" height="40" />
+</a>
 
-![React](https://shields.io)

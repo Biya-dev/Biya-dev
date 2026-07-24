@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Biya+👋;Software+Developer+in+Progress;Building+Web+%26+AI+Projects;Exploring+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Biya+👋;Software+Developer;AI+%26+Automation+Explorer;Building+Cool+Projects;Always+Learning+New+Things" />
 </h1>
 
 <p align="center">
-  Building, Learning, and Exploring New Technologies
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=header&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,46 +12,42 @@
 
 ---
 
-## About Me
-
-- Software development student
-- Interested in Web Development, AI, and Automation
-- Building projects and improving my skills through practice
-- Exploring new technologies and open-source projects
-
----
-
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,python,cpp,mysql,nodejs,git,github,vscode&perline=7" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biya-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## Currently Learning
+<h2 align="center">
+  ⚡ Currently Building & Learning ⚡
+</h2>
 
-- Artificial Intelligence
-- Machine Learning
-- Full-stack Development
-- System Design
+<p align="center">
+  Web Development • AI • Automation • Open Source
+</p>
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biya-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biya-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biya-dev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biya-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Biya-dev/Biya-dev/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">
+  Thanks for visiting 👋
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biya-dev&style=for-the-badge&color=blue" />
 </p>

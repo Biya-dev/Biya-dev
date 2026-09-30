@@ -2,7 +2,7 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=150&section=header&text=Bijaya&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20Websites%20%26%20Open%20Source&descAlignY=62&descSize=16&animation=fadeIn" alt="" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Building+websites+%26+web+apps;Building+open-source+tools;Shipping+projects+people+use;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Building+open-source+tools;Shipping+projects+people+use;Always+learning+something+new" alt="Typing SVG" />
 
   <br />
 

@@ -77,7 +77,7 @@
 
   <br /><br />
 
-  <img width="100%" src="https://raw.githubusercontent.com/Biya-dev/Biya-dev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/Biya-dev/Biya-dev@main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 
   <br /><br />
 

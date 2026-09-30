@@ -28,51 +28,17 @@
 
 ## ⭐ Featured projects
 
-<table style="width:100%; border-collapse:collapse;">
+<table>
   <tr>
-    <td width="50%" style="vertical-align:top; padding:6px;">
-      <div style="border:1px solid rgba(127,127,127,.35); border-radius:6px; padding:16px;">
-        <table style="width:100%; border-collapse:collapse;">
-          <tr>
-            <td style="padding:0;">
-              <a href="https://github.com/Biya-dev/ctx"><strong style="font-size:15px; color:#2f81f7;">ctx</strong></a>
-            </td>
-            <td style="padding:0; text-align:right;">
-              <span style="border:1px solid rgba(127,127,127,.45); border-radius:9999px; padding:1px 8px; font-size:12px; color:#7d8590;">Public</span>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2" style="padding-top:10px; color:#7d8590; font-size:14px;">Understand any codebase in seconds. Generate architecture, dependencies, and AI-ready context from any repository.</td>
-          </tr>
-          <tr>
-            <td colspan="2" style="padding-top:12px; color:#7d8590; font-size:12px;">
-              <span style="color:#3572A5;">●</span>&nbsp;Python&nbsp;&nbsp;&nbsp;★&nbsp;1
-            </td>
-          </tr>
-        </table>
-      </div>
+    <td width="50%" valign="top">
+      <p><a href="https://github.com/Biya-dev/ctx"><strong>ctx</strong></a> <img height="20" alt="Public" src="https://img.shields.io/badge/-Public-6e7781?style=flat" /></p>
+      <p>Understand any codebase in seconds. Generate architecture, dependencies, and AI-ready context from any repository.</p>
+      <p><img width="9" height="9" alt="" src="https://raw.githubusercontent.com/Biya-dev/Biya-dev/main/assets/dot-python.svg" /> Python&nbsp;&nbsp;&nbsp;★ 1</p>
     </td>
-    <td width="50%" style="vertical-align:top; padding:6px;">
-      <div style="border:1px solid rgba(127,127,127,.35); border-radius:6px; padding:16px;">
-        <table style="width:100%; border-collapse:collapse;">
-          <tr>
-            <td style="padding:0;">
-              <a href="https://github.com/Biya-dev/freeswitch"><strong style="font-size:15px; color:#2f81f7;">freeswitch</strong></a>
-            </td>
-            <td style="padding:0; text-align:right;">
-              <span style="border:1px solid rgba(127,127,127,.45); border-radius:9999px; padding:1px 8px; font-size:12px; color:#7d8590;">Public</span>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2" style="padding-top:10px; color:#7d8590; font-size:14px;">A tiny CLI to switch and chat across free AI models with one command.</td>
-          </tr>
-          <tr>
-            <td colspan="2" style="padding-top:12px; color:#7d8590; font-size:12px;">
-              <span style="color:#3572A5;">●</span>&nbsp;Python&nbsp;&nbsp;&nbsp;★&nbsp;1
-            </td>
-          </tr>
-        </table>
-      </div>
+    <td width="50%" valign="top">
+      <p><a href="https://github.com/Biya-dev/freeswitch"><strong>freeswitch</strong></a> <img height="20" alt="Public" src="https://img.shields.io/badge/-Public-6e7781?style=flat" /></p>
+      <p>A tiny CLI to switch and chat across free AI models with one command.</p>
+      <p><img width="9" height="9" alt="" src="https://raw.githubusercontent.com/Biya-dev/Biya-dev/main/assets/dot-python.svg" /> Python&nbsp;&nbsp;&nbsp;★ 1</p>
     </td>
   </tr>
 </table>

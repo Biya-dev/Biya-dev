@@ -26,14 +26,56 @@
 
 ---
 
-## 🚀 Featured projects
+## ⭐ Featured projects
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| **[ctx](https://github.com/Biya-dev/ctx)** | Understand any codebase in seconds — generates architecture, dependency and AI-ready context from any repository. Also published on [PyPI](https://pypi.org/project/ctx-cli/). | `Python` |
-| **[freeswitch](https://github.com/Biya-dev/freeswitch)** | A tiny CLI to switch and chat across free AI models with one command. | `Python` |
-| **[portfolio](https://github.com/Biya-dev/portfolio)** | Personal portfolio site — Next.js 16, React 19, TypeScript and Tailwind CSS 4, deployed on Netlify. | `TypeScript` |
-| **[electrician-website](https://github.com/Biya-dev/electrician-website)** | A modern, high-converting electrician website built with hand-written HTML, CSS and JavaScript. | `HTML` |
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td width="50%" style="vertical-align:top; padding:6px;">
+      <div style="border:1px solid rgba(127,127,127,.35); border-radius:6px; padding:16px;">
+        <table style="width:100%; border-collapse:collapse;">
+          <tr>
+            <td style="padding:0;">
+              <a href="https://github.com/Biya-dev/ctx"><strong style="font-size:15px; color:#2f81f7;">ctx</strong></a>
+            </td>
+            <td style="padding:0; text-align:right;">
+              <span style="border:1px solid rgba(127,127,127,.45); border-radius:9999px; padding:1px 8px; font-size:12px; color:#7d8590;">Public</span>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-top:10px; color:#7d8590; font-size:14px;">Understand any codebase in seconds. Generate architecture, dependencies, and AI-ready context from any repository.</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-top:12px; color:#7d8590; font-size:12px;">
+              <span style="color:#3572A5;">●</span>&nbsp;Python&nbsp;&nbsp;&nbsp;★&nbsp;1
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+    <td width="50%" style="vertical-align:top; padding:6px;">
+      <div style="border:1px solid rgba(127,127,127,.35); border-radius:6px; padding:16px;">
+        <table style="width:100%; border-collapse:collapse;">
+          <tr>
+            <td style="padding:0;">
+              <a href="https://github.com/Biya-dev/freeswitch"><strong style="font-size:15px; color:#2f81f7;">freeswitch</strong></a>
+            </td>
+            <td style="padding:0; text-align:right;">
+              <span style="border:1px solid rgba(127,127,127,.45); border-radius:9999px; padding:1px 8px; font-size:12px; color:#7d8590;">Public</span>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-top:10px; color:#7d8590; font-size:14px;">A tiny CLI to switch and chat across free AI models with one command.</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="padding-top:12px; color:#7d8590; font-size:12px;">
+              <span style="color:#3572A5;">●</span>&nbsp;Python&nbsp;&nbsp;&nbsp;★&nbsp;1
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 

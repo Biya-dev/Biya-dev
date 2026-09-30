@@ -1,9 +1,9 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Bijaya&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20and%20Automation&descAlignY=55&descSize=18&animation=fadeIn" alt="Bijaya — Software Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Bijaya&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20Websites%20%26%20Open%20Source&descAlignY=55&descSize=18&animation=fadeIn" alt="Bijaya — Web Developer" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Software+Developer;AI+%26+Automation+Explorer;Building+Cool+Projects;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Building+websites+%26+web+apps;Building+open-source+tools;Shipping+projects+people+use;Always+learning+something+new" alt="Typing SVG" />
 
   <br />
 
@@ -17,9 +17,9 @@
 
 ## ⚡ Currently building & learning
 
-> **Web Development • AI • Automation • Open Source**
+> **Websites • Web Apps • Open Source • Developer Tools**
 
-- 🔭 **Building** developer tools that remove small daily frictions — [ctx](https://github.com/Biya-dev/ctx) and [freeswitch](https://github.com/Biya-dev/freeswitch) are both live.
+- 🔭 **Building** websites, web apps and small developer tools — live: [ctx](https://github.com/Biya-dev/ctx) and [freeswitch](https://github.com/Biya-dev/freeswitch).
 - 🧠 **Learning** something new every week, then shipping it as a repository.
 - 🌍 **Care about** open source, honest documentation and readable code.
 - 🆔 **ORCID iD** — [0009-0008-7538-050X](https://orcid.org/0009-0008-7538-050X)
